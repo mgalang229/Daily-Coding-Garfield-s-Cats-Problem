@@ -1,4 +1,4 @@
-# Daily-Coding-Garfield-s-Cats-Problem
+# Daily-Coding-Garfields-Cats-Problem
 ### Problem  
 ![](prob.jpg)  
 ### Explanation:
